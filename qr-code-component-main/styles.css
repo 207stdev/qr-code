@@ -1,0 +1,48 @@
+.main-div {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.qr {
+  border-radius: 16px 16px 16px 16px;
+  text-align: center;
+  align-content: center;
+  width: 400px;
+}
+
+p {
+  font-size: 18px;
+  font-weight: 400px;
+  color: grey;
+}
+
+h1 {
+  font-size: 28px;
+}
+
+.text {
+  width: 320px;
+  padding-left: 40px;
+}
+img {
+  width: 360px;
+  border-radius: 12px;
+  margin-top: 20px;
+}
+.qr {
+  font-family: "Outfit", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
+
+.qr {
+  -webkit-box-shadow: -14px 18px 36px -7px rgba(145, 145, 145);
+  -moz-box-shadow: -14px 18px 36px -7px rgba(145, 145, 145);
+  box-shadow: -14px 18px 36px -7px rgb(145, 145, 145);
+  margin-bottom: 250px;
+  margin-top: 40px;
+  margin-left: 300px;
+  padding-bottom: 40px;
+}
